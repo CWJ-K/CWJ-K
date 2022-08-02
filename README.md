@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 
 ## <img src="https://static.showit.co/file/SH7R5NrySW-eb83TWiUNiw/145197/stars_gif.gif" width="50px" height="50px"> I am Currently Learning
 
-<a href="https://github.com/CWJ-K/Linux_Note"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=CWJ-K&repo=Linux_Note" width=400> </a> 
-<a href="https://github.com/CWJ-K/Distributed_Computing_Note"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=CWJ-K&repo=Distributed_Computing_Note" width=400> </a> 
+<a href="https://github.com/CWJ-K/Linux_Note"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=CWJ-K&repo=Linux_Note" width=300> </a> 
+<a href="https://github.com/CWJ-K/Distributed_Computing_Note"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=CWJ-K&repo=Distributed_Computing_Note" width=300> </a> 
 
-<a href="https://github.com/CWJ-K/Python_Note"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=CWJ-K&repo=Python_Note" width=400> </a> 
+<a href="https://github.com/CWJ-K/Python_Note"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=CWJ-K&repo=Python_Note" width=300> </a> 
 
