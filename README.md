@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 
  <img src="https://s.yimg.com/ny/api/res/1.2/QE2JSVTx39cMM62ukegg5w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTM2OQ--/https://s.yimg.com/uu/api/res/1.2/lOMT33S9ILf0Us4tTUT5Vg--~B/aD0yODg7dz01MDA7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/zh-Hant/homerun/gameover.com.hk/4a2700cb37849fb17e66661159501130" width = "1000" height = "300" align=center />
 
-# Hello, I am Louise
-I am a data engineer.
+# Hello :sun_with_face: My Name is Louise. I am a Data Engineer.
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> These are My Projects
 
