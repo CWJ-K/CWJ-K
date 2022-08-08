@@ -36,6 +36,6 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/CWJ-K/Linux_Note"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=CWJ-K&repo=Linux_Note" width=300> </a> 
 <a href="https://github.com/CWJ-K/Distributed_Computing_Note"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=CWJ-K&repo=Distributed_Computing_Note" width=300> </a> 
-
 <a href="https://github.com/CWJ-K/Python_Note"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=CWJ-K&repo=Python_Note" width=300> </a> 
+<a href="https://github.com/CWJ-K/FastAPI_Note"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=CWJ-K&repo=FastAPI_Note" width=300> </a> 
 
